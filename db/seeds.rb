@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+Greeting.create(message: "Welcome Micronaut!")
+Greeting.create(message: "Hello world!")
+Greeting.create(message: "Hello World of rails webpack!")
+Greeting.create(message: "Nice to have You back")
+Greeting.create(message: "Hello final Capstone coders")
