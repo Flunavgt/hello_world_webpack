@@ -1,24 +1,199 @@
-# README
+<a name="readme-top"></a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-Things you may want to cover:
+Modify this file to match your project and remove sections that don't apply.
 
-* Ruby version
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-* System dependencies
+OPTIONAL SECTIONS:
+- FAQ
 
-* Configuration
+After you're finished please remove all the comments and instructions!
+-->
 
-* Database creation
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-* Database initialization
+  <h3><b>Microverse README Template</b></h3>
 
-* How to run the test suite
+</div>
 
-* Services (job queues, cache servers, search engines, etc.)
+<!-- TABLE OF CONTENTS -->
 
-* Deployment instructions
+# 📗 Table of Contents
 
-* ...
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Hello World rails/react one app<a name="about-project"></a>
+
+
+
+** Hello World webpack is an app created with react as front end and rails as backend in one app that will print a Random welcome message
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+<!-- LIVE DEMO -->
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+Git clone the repository. https://github.com/Flunavgt/hello_world_webpack.git
+Run bundle install nad npm i
+Run ./bin/dev and open http://localhost:3000/ in your browser to see the web application running.
+
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+
+👤 **Federico Luna V. **
+
+- GitHub: [@Flunavgt](https://github.com/Flunavgt)
+- Twitter: [@flunavgt](https://twitter.com/flunavgt)
+- LinkedIn: [federico-luna-Gt](https://linkedin.com/in/federico-luna-Gt)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
