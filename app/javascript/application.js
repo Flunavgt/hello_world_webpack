@@ -1,16 +1,3 @@
-// Entry point for the build script in your package.json
-// import "@hotwired/turbo-rails"
-// import "./controllers"
-// import '@hotwired/turbo-rails';
-// import './controllers';
-// import React from 'react';
-// import ReactDOM from 'react-dom';
-// import ReactDOM from 'react-dom/client';
-// import Greeting from './components/Greeting';
-// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import store from './redux/store';
-// import { Provider } from 'react-redux';
-// import { fetchGreeting } from './redux/greetings/greetingsSlice';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Greeting from './components/Greeting';

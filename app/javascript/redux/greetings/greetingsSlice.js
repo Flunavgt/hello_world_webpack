@@ -1,12 +1,14 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
+// const GREETINGS_URL = 'http://127.0.0.1:3000/api/message';
 const GREETINGS_URL = 'http://127.0.0.1:3000/greetings/random';
+
 
 export const fetchGreeting = createAsyncThunk(
   'greetings/fetchGreeting',
   async () => {
-    const response = await axios.get(GREETINGS_URL);
+    const response = await axios.get(GREETINGS_URL, {mode:'cors'});
     return response.data;
   }
 );
